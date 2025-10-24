@@ -26,7 +26,7 @@ The game logic is implemented in `snake.js`, which includes:
 - **Game Over Conditions**: Checks for collisions with walls or the snake itself.
 
 ## How to Run
-1. Clone the repository.
+1. Play it here [Live Game](https://annagornyitzki.github.io/snake/)
 2. Open `index.html` in a web browser to start the game.
 
 ## License
