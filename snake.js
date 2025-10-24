@@ -23,7 +23,7 @@ var gameOver = false;
 
 // score/ high score
 var score = 0;
-var highScore = parseInt(localStorage.getItem("snakeHighScore"));
+var highScore = parseInt(localStorage.getItem("snakeHighScore") || 0);
 
 var scoreEl;
 var highScoreEl;
