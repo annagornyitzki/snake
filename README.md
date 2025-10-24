@@ -24,9 +24,13 @@ The game logic is implemented in `snake.js`, which includes:
 - **Game Over Conditions**: Checks for collisions with walls or the snake itself.
 
 
-## Background Design
+## UI/UX Design
 
-The background for the game was designed by me, incorporating a unique style that enhances the visual appeal and overall gaming experience. I aimed for a vibrant and engaging look that complements the gameplay mechanics.
+The user interface (UI) and user experience (UX) design for the game were crafted with the player in mind.Key design elements include:
+
+- **Color Scheme**: A vibrant color palette was chosen to create an engaging atmosphere.
+- **Background Design**: The background complements the gameplay, enhancing the overall aesthetic without distracting from the action.
+
 
 ## How to Run
 1. Play it here [Live Game](https://annagornyitzki.github.io/snake/)
