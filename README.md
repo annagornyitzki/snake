@@ -15,8 +15,6 @@ This project is a simple implementation of the classic Snake game using JavaScri
 - `index.html`: The main HTML file that serves as the entry point for the game.
 - `snake.css`: Contains the styles for the game interface.
 - `snake.js`: The main JavaScript file that contains the game logic.
-- `package.json`: Lists the project dependencies, including Firebase for data management.
-- `dataconnect/`: Contains configuration files and GraphQL queries/mutations for data handling.
 
 ## Game Logic
 The game logic is implemented in `snake.js`, which includes:
