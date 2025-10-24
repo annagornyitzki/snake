@@ -23,6 +23,11 @@ The game logic is implemented in `snake.js`, which includes:
 - **Food Placement**: Logic to randomly place food on the game board.
 - **Game Over Conditions**: Checks for collisions with walls or the snake itself.
 
+
+## Background Design
+
+The background for the game was designed by me, incorporating a unique style that enhances the visual appeal and overall gaming experience. I aimed for a vibrant and engaging look that complements the gameplay mechanics.
+
 ## How to Run
 1. Play it here [Live Game](https://annagornyitzki.github.io/snake/)
 2. Open `index.html` in a web browser to start the game.
