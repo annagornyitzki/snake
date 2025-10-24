@@ -2,6 +2,8 @@
 
 A classic Snake game built with HTML, CSS, and JavaScript.
 
+![alt text](https://github.com/annagornyitzki/snake/blob/main/snake-gameplay.png?raw=true)
+
 **Controls**
 - Arrow keys or WASD to move  
 - Press `Enter` to restart after game over
