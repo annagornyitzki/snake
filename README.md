@@ -39,6 +39,3 @@ The user interface (UI) and user experience (UX) design for the game were crafte
 ## How to Run
 1. Play it here [Live Game](https://annagornyitzki.github.io/snake/)
 2. Open `index.html` in a web browser to start the game.
-
-## License
-This project is licensed under the MIT License.
