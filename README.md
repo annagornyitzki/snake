@@ -3,7 +3,7 @@
 A classic Snake game built with HTML, CSS, and JavaScript.
 
 <div align="center">
-  <img src="https://github.com/annagornyitzki/snake/blob/main/snake-gameplay.png?raw=true" width="350"/>
+  <img src="https://github.com/annagornyitzki/snake/blob/main/snake-gameplay.png?raw=true" width="550"/>
 </div>
 
 **Controls**
